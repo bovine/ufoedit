@@ -1,0 +1,82 @@
+                       UFO (X-COM) Saved Game editor, v1.2
+                             by JL Enterprises, 1996
+
+
+Introduction
+------------
+UFO is an ingenious game by Microprose that does not take much time at
+all to master.  The game itself, however, sometimes becomes difficult
+because you must manage your resources carefully.  This simple little
+program allows you to edit various items stored in the saved game files
+created by UFO, such as your total money, the various items in your
+storehouses, the types of buildings you have on your different bases,
+and also the statistics of any soldier that you have recruited.
+
+The advantage of the first two options are obvious, but one might ask
+why you'd need to create buildings when you can do that in the game.
+Well, for one thing, it won't require any money to create buildings
+inside my editor, and also, the construction is instantaneous. The last
+option is especially useful because you can greatly improve the accuracy
+of your soldiers and can even put any type of armour available in the
+game on your men.  You can promote your soldiers to any rank, reanimate
+dead soldiers, and even do immediate (and free) transfers to your other
+bases.
+
+This editor requires a VGA monitor and a mouse to run (the requirements
+of the game anyways).  You need to at least place the exe file of the
+editor in your main UFO directory and run it from there.
+
+
+Comments
+--------
+This editor was written and tested with the UK version of the game
+(marketed as UFO).  It has not yet been tested with the final US release
+(marketed as X-COM), but there should be no problems unless the file
+formats have changed.
+
+When editing your money, I'd recommend not maxing it out, since you get
+quite a bit each month and your money will wrap around and you'll have
+negative money.  The best thing to do is to hit "max", and then edit the
+amount so that the most significant digit is one less to give the game
+plenty of "elbow room".
+
+When you're editing the stocks that you have in your inventory, be aware
+that it is possible to edit your saved game so that you'll have more
+than you have storage for.  This will not be a problem unless you try to
+get more items in the game.  You will also run into a problem if you
+assign weapons on one of your ships and then try to unassign weapons
+from it (there won't be any room in your base to relocate it).
+
+
+Registration
+------------
+The usage of this program is not free.  I require that if you use this
+program more than once, you should register.  Registration only costs US
+$5 and will remove the 'enter the number' prompt upon startup and will
+also display that the program is registered to you--to give you
+something to be proud of. :)
+
+To register, simply send US $5 along with your name, telephone number,
+and a self-addressed stamped envelope (so I can mail your registration
+number to you without having to figure out the correct postage) to the
+below address (note somewhere that you are registering UFOEDIT).  If you
+have an e-mail address, feel free to enclose it instead of the envelope
+(saves you a couple stamps) and I will send your code to you that way.
+
+
+How to reach the author
+-----------------------
+I can reached via Snail-mail at:
+
+        Jeff Lawson
+        1893 Kaweah Drive
+        Pasadena, CA 91105-2174
+        USA
+
+or through E-mail at:
+
+        jlawson@hmc.edu    or    JeffLawson@aol.com
+
+also via phone at:
+
+        (213) 258-5604     or    (213) 258-4264
