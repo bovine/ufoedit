@@ -50,33 +50,22 @@ from it (there won't be any room in your base to relocate it).
 
 Registration
 ------------
-The usage of this program is not free.  I require that if you use this
-program more than once, you should register.  Registration only costs US
-$5 and will remove the 'enter the number' prompt upon startup and will
-also display that the program is registered to you--to give you
-something to be proud of. :)
+Registrations are no longer being accepted for UFOEDIT as of April
+1999. However, since I have heard many people indicate how they still
+believe that my editor is a viable program, I am providing the
+registration information to fully unlock all of its features
+below. Please note that you must type in the information exactly as
+shown below! YOU CANNOT ENTER YOUR OWN NAME AND PHONE NUMBER!
 
-To register, simply send US $5 along with your name, telephone number,
-and a self-addressed stamped envelope (so I can mail your registration
-number to you without having to figure out the correct postage) to the
-below address (note somewhere that you are registering UFOEDIT).  If you
-have an e-mail address, feel free to enclose it instead of the envelope
-(saves you a couple stamps) and I will send your code to you that way.
+Name: Registered User
+Phone: 1234567890
+Serial: 08RQRRHFD60A17VDWVKJ
+
 
 
 How to reach the author
 -----------------------
-I can reached via Snail-mail at:
+I can reached through E-mail at:
 
-        Jeff Lawson
-        1893 Kaweah Drive
-        Pasadena, CA 91105-2174
-        USA
+        jeff@bovine.net
 
-or through E-mail at:
-
-        jlawson@hmc.edu    or    JeffLawson@aol.com
-
-also via phone at:
-
-        (213) 258-5604     or    (213) 258-4264
