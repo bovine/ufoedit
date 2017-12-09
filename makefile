@@ -17,7 +17,7 @@ BCC_ARGS = /v /ml /c /2 /Os
 TLINK_ARGS = /x
 
 !if ($(DEBUG) == yes)
-BCC_ARGS = $(BCC_ARGS) /DNO_CRC_CHECK
+BCC_ARGS = $(BCC_ARGS)
 TLINK_ARGS = $(TLINK_ARGS) /v
 !endif
 
@@ -31,7 +31,7 @@ TLINK_ARGS = $(TLINK_ARGS) /v
 
 ##############################################################################
 
-ufoedit.exe:    ufoedit.obj sharewar.obj farewell.obj errormsg.obj
+ufoedit.exe:    ufoedit.obj farewell.obj errormsg.obj
         tlink $(TLINK_ARGS) @&&|
 c0l.obj $**
 $<

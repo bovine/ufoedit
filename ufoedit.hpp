@@ -86,7 +86,6 @@ void bad_crc (void);
 // []-------------------------[]
 // |  prototype all functions  |
 // []-------------------------[]
-extern void shareware_annoyance(void);
 int file_exists (char *filename);
 int main_screen (void);
 int select_function (void);

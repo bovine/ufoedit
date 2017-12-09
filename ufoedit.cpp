@@ -129,18 +129,6 @@ void main (int argc, char *argv[])
 {
     activescreenclass->registerfarewell(Farewell);
 
-    // check our CRC
-    #if !defined(NO_CRC_CHECK)
-        FILE *fp;
-        filecrc crc;
-        if ((fp = fopen(argv[0], "rb")) == NULL) bad_crc();
-        fseek(fp, 0x23, SEEK_SET); fread(&crc, sizeof(filecrc), 1, fp); fclose(fp);
-        if (stealth_file_check(argv[0], crc)) bad_crc();
-    #endif
-
-    // do the shareware stuff
-    shareware_annoyance();
-
     // main loop
     while (TRUE) {
         // select which saved game to edit
